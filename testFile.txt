@@ -1,1 +1,1 @@
-before comflict
+file change for merge conflict
